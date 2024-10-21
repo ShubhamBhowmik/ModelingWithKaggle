@@ -1,5 +1,5 @@
 Anti-COVID Sentiment Analysis Model
-This repository contains a sentiment analysis model that evaluates public sentiment towards the Pfizer COVID-19 vaccine based on tweets collected from Twitter. The goal is to understand how people feel about the vaccine during the pandemic.
+This branch contains a sentiment analysis model that evaluates public sentiment towards the Pfizer COVID-19 vaccine based on tweets collected from Twitter. The goal is to understand how people feel about the vaccine during the pandemic.
 
 Key Features
 Analyzes tweets to determine sentiment (positive, negative, neutral).
