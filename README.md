@@ -1,0 +1,1 @@
+This project demonstrates time series forecasting to predict S&P 500 Index stock prices using the SARIMA (Seasonal AutoRegressive Integrated Moving Average) model. The goal is to forecast the future Adjusted Closing Price based on historical price data.
