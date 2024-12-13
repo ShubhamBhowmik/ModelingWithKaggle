@@ -1,8 +1,10 @@
-Welcome to my GitHub repository! This repository serves as a collection of all my work aimed at enhancing my skills and knowledge in data science, machine learning, and related fields. It contains various projects and experiments that I have worked on to continuously upgrade and improve myself.
+This repository contains my work as a Data Science Intern at Cognifyz Technologies, where I explored restaurant datasets to derive actionable insights.
 
-Repository Structure
-Main Branch: The main branch of this repository includes an overview and general documentation of my journey and progress in data science. It serves as a landing point for all my projects.
+Key Highlights
+Predictive Modeling: Built and evaluated regression models (Linear Regression, Decision Trees, Random Forest) to predict restaurant ratings.
+Customer Preference Analysis: Analyzed cuisines, ratings, and votes to identify trends and customer preferences.
+Data Visualization: Created insightful charts for rating distributions, comparisons, and feature relationships.
+Feature Engineering: Designed new features like Has Table Booking and Has Online Delivery for enhanced analysis.
 
-Project Branches: Each branch other than the main branch represents a specific project I have worked on. These projects are organized separately to reflect the unique goals, methodologies, and outcomes of each initiative.
-
-Feel free to explore the branches to dive into individual projects and see the work I've been doing to grow in the data science field. Thank you for visiting!
+Explore the Work
+Check out the project and code details in the repository. Feedback and suggestions are welcome!
